@@ -1,0 +1,17 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/foam5498/day2-p1",
+  "authors": [
+    "day2-p1 <palagorn.na@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
